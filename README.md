@@ -31,7 +31,7 @@ It covers core CRUD features using only the standard library in Go.
 3. Run this command in terminal:
 
 ```bash
-go run main.go
+go run go-restapi.go
 ```
 Server will be running at: http://localhost:8080
 
