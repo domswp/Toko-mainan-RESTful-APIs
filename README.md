@@ -1,4 +1,4 @@
-# 🧸 Toko Mainan (RESTful API in Golang)
+# 🧸 Toko Mainan (RESTful API in Golang) with no PUT
 
 Hey there!  
 This is a beginner-friendly RESTful API project built using pure Go (`net/http`) with no external frameworks.
